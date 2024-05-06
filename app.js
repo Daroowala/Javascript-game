@@ -28,6 +28,4 @@ function checkWin(){
         alert("Congratulation! You Won!!");
     }
 }
-  function resetFunction(){
-    document.getElementById("resetFunction").reset();
-  }
+  
